@@ -1,4 +1,4 @@
-class CountDigits {
+class Countdigit {
     public static void main(String[] args) {
     int n = 24680;
     int temp = n;
